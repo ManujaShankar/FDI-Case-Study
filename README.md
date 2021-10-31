@@ -15,3 +15,6 @@ FDI case study using tableau
 13. Proportion of Each sector in FDI
 14. are there some specific clusters that are present here
 15. What is the forecast for next year
+
+
+https://public.tableau.com/app/profile/manuja.ks/viz/FDIProject_16356786153260/FDIdashboard?publish=yes
